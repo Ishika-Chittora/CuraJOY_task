@@ -15,7 +15,7 @@ Build robust cyberbullying detection models using machine learning and NLP to cl
 | `Model_training.ipynb` | Full pipeline: preprocessing, model training (Logistic, SVC, RF, XGBoost, LSTM, Voting), and evaluation |
 | `Preprocessing.ipynb` |Preprocessing code|
 | `requirements.txt` | List of all Python dependencies |
-| `Cyberbullying Detection Challenge.pdf` | 3-page documentation of the full solution |
+| `Report.pdf` | 3-page documentation of the full solution |
 |`preprocessed_cyberbulliying_data' | preprocessed or cleaned data |
 
 ---
